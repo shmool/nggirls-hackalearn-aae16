@@ -18,7 +18,7 @@ sections:
     background_image_size: cover
     image: images/ngGirls HackaLearn.png
     image_alt: ngGirls HackaLearn
-    subtitle: Full Stack Serverless Angular on Azure Workshops
+    subtitle: From Front-End to Full-Stack in Five Days
   - type: grid_section
     grid_items:
       - title: 2 Days
