@@ -47,7 +47,7 @@ sections:
           Connect with the participants and share your learnings, ideas, and
           inspiration with the community.
         content_align: left
-        image: images/20-speakers.svg
+        image: images/engage.png
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
