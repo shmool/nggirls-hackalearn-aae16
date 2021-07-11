@@ -3,7 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: Learn. Deploy. Inspire.
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **July 25 - 29, 2021**
     actions:
       - label: Get Your Ticket Today!
         url: /about
