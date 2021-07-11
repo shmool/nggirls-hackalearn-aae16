@@ -68,6 +68,7 @@ export default class Footer extends React.Component {
                 					{_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null) && (
                 						<span>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null))}</span>
                 					)}
+                                    {<span>stuff</span>}
                 					{_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.links', null), (link, link_idx) => (
                 						<Link key={link_idx} to={withPrefix(_.get(link, 'url', null))}
                 							{...(_.get(link, 'new_window', null) ? ({target: '_blank'}) : null)}
