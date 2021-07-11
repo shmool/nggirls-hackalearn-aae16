@@ -17,6 +17,7 @@ sections:
     background_image_size: cover
     image: images/ngGirls HackaLearn.png
     image_alt: ngGirls HackaLearn
+    subtitle: 'Workshops '
   - type: grid_section
     grid_items:
       - title: 2 Days
