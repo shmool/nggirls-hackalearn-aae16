@@ -67,6 +67,7 @@ export default class Footer extends React.Component {
                 				<div className={classNames('site-footer__copyright', 'cell-12', {'cell-sm': footer_social})}>
                 					{_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null) && (
                 						<span>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null))}</span>
+                                        <span>and studd</span>
                 					)}
                 					{_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.links', null), (link, link_idx) => (
                 						<Link key={link_idx} to={withPrefix(_.get(link, 'url', null))}
