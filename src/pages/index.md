@@ -79,8 +79,8 @@ sections:
           The new service by Azure takes care of all the necessary details of
           deployment. It takes your project straight from GitHub, adds SSL
           certificate, provides user management (authentication and
-          authorization) out of the box, and enables seamless integration with
-          your API.
+          authorization) out of the box, enables seamless integration with your
+          API, and more.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
