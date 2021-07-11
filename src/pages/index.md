@@ -27,7 +27,7 @@ sections:
           Five days of daily workshops and consultation led by Shmuela Jacobs
           with supporting mentors.
         content_align: left
-        image: images/2-days.svg
+        image: images/learn.png
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
