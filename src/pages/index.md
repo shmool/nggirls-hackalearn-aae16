@@ -18,7 +18,7 @@ sections:
     background_image_size: cover
     image: images/ngGirls HackaLearn.png
     image_alt: ngGirls HackaLearn
-    subtitle: Workshops for Angular on Azure
+    subtitle: Workshops for Fullstack Angular on Azure
   - type: grid_section
     grid_items:
       - title: 2 Days
