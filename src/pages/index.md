@@ -23,9 +23,9 @@ sections:
     grid_items:
       - title: Learn
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: >
+          Five days of daily workshops and consultation led by Shmuela Jacobs
+          with supporting mentors
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
