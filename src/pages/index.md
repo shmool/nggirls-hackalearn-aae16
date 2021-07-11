@@ -75,10 +75,12 @@ sections:
   - type: features_section
     features:
       - title: Static Web Apps
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: >
+          The new service by Azure takes care of all the necessary details of
+          deployment. It takes your project straight from GitHub, adds SSL
+          certificate, provides user management (authentication and
+          authorization) out of the box, and enables seamless integration with
+          your API.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
