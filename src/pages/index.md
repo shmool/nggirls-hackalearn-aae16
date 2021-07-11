@@ -31,7 +31,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-      - title: Hack
+      - title: Deploy
         title_align: left
         content: |
           Deploy and connect your Angular app to Serverless API and DB on Azure.
