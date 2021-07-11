@@ -17,7 +17,7 @@ sections:
     background_image_size: cover
     image: images/ngGirls HackaLearn.png
     image_alt: ngGirls HackaLearn
-    subtitle: 'Fullstack Skills '
+    subtitle: Conference for Creative People
   - type: grid_section
     grid_items:
       - title: 2 Days
