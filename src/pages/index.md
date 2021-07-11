@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/TLV2020 1.jpeg
-    background_image_opacity: 15
+    background_image_opacity: 1
     background_image_size: cover
   - type: grid_section
     grid_items:
