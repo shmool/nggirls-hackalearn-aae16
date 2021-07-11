@@ -37,7 +37,7 @@ sections:
           Connect your own Angular app to Serverless API and DB with user
           management, and publish it.
         content_align: left
-        image: images/2-tracks.svg
+        image: images/deploy.png
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
