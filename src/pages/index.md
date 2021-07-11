@@ -60,9 +60,12 @@ sections:
   - type: features_section
     title: What you’ll learn
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          Today's technology allows you to deploy your application with all the
+          necessary configuration with just a few steps. We'll use Azure Static
+          Web Apps, Functions, and Cosmos DB to transform your wonderful Angular
+          front-end to a full-featured application that you can serve to your
+          users right away.
         align: center
     feature_padding_vert: medium
     align: center
