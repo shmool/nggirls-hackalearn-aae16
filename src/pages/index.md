@@ -65,7 +65,7 @@ sections:
           necessary configuration with just a few steps. We'll use Azure Static
           Web Apps, Functions, and Cosmos DB to transform your wonderful Angular
           front-end to a full-featured application that you can serve to your
-          users right away.
+          audience right away.
         align: center
     feature_padding_vert: medium
     align: center
