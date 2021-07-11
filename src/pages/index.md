@@ -43,8 +43,9 @@ sections:
         image_width: twenty-five
       - title: Engage
         title_align: left
-        content: |
-          Share your learnings, ideas, and inspiration with the community.
+        content: >
+          Connect with the participants and share your learnings, ideas, and
+          inspiration with the community.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
