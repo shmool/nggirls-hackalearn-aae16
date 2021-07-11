@@ -86,10 +86,11 @@ sections:
         media_position: right
         media_width: sixty
       - title: Azure Functions
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          Write backend functions that connect your front end with backend
+          services such as DB, or perform heavy or confidential logic in a
+          secure environment. These functions can be triggered by HTTP requests,
+          database actions, and more.
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
