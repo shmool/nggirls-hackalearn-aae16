@@ -21,7 +21,7 @@ sections:
     subtitle: From Front-End to Full-Stack in Five Days
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: Learn
         title_align: left
         content: >-
           Attend a two-track and two days conference on all things Jamstack,
