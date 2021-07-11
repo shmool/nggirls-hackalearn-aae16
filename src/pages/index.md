@@ -6,7 +6,7 @@ sections:
     content: |
       **July 25 - 29, 2021**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Apply Now!
         url: /about
         style: primary
     align: center
