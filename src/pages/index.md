@@ -35,7 +35,7 @@ sections:
         title_align: left
         content: >
           Connect your own Angular app to Serverless API and DB with user
-          management, and publish it on Azure.
+          management, and publish it.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
