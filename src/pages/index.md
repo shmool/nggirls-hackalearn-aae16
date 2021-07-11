@@ -16,7 +16,7 @@ sections:
     background_image: images/TLV2020 1.jpeg
     background_image_opacity: 25
     background_image_size: cover
-    image: images/ngGirls HackaLearn.001.jpeg
+    image: images/ngGirls HackaLearn.png
   - type: grid_section
     grid_items:
       - title: 2 Days
