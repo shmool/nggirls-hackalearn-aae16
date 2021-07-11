@@ -34,8 +34,8 @@ sections:
       - title: Deploy
         title_align: left
         content: >
-          Deploy and connect your own Angular app to Serverless API and DB on
-          Azure.
+          Connect your own Angular app to Serverless API and DB with user
+          management, and publish it on Azure.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
