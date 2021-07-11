@@ -33,7 +33,8 @@ sections:
         image_width: twenty-five
       - title: Hack
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: |
+          Deploy and connect your Angular app to Serverless API and DB on Azure.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
