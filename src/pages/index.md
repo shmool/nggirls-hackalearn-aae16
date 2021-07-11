@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Learn. Deploy. Inspire.
+    title: Learn. Deploy. Engage.
     content: |
       **July 25 - 29, 2021**
     actions:
