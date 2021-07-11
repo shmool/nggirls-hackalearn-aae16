@@ -96,11 +96,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Cosmos DB
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          With this NoSQL database your application can scale and grow without
+          the need to to update your schema. Cosmos DB comes with different
+          "flavors" (APIs) that let you use a DB language you're familiar with.
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
