@@ -66,7 +66,6 @@ export default class Footer extends React.Component {
                 				{footer_content && (
                 				<div className={classNames('site-footer__copyright', 'cell-12', {'cell-sm': footer_social})}>
                 					{_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null) && (
-                                        <div>Icons made by <a href="https://www.flaticon.com/authors/icon-pond" title="Icon Pond">Icon Pond</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
                 						<span>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null))}</span>
                 					)}
                 					{_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.links', null), (link, link_idx) => (
