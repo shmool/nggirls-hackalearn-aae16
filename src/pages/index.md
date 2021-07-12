@@ -171,11 +171,19 @@ sections:
         content_align: left
       - title: Details
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Participation is free of charge. In addition, Azure is free for
+          (generous) limited use.
+
+
+          The workshops will be held in English. Depending on the mentors'
+          capabilities, we may support you in other languages during consultancy
+          time.
+
+
+          If you're not able to attend this time, or you don't belong to an
+          underrepresented group in tech, you may join the next round of
+          HackaLearn which will be open to all.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
