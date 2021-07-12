@@ -129,6 +129,9 @@ sections:
           mentors will be available throughout the week for additional
           assistance. Additional relevant content will be provided, such as
           video tutorials and Learn Modules.
+
+
+          We'll meet again about a week later to present our applications.
         content_align: left
       - title: Participating
         title_align: left
