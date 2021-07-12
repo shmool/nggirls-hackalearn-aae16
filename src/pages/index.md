@@ -13,7 +13,7 @@ sections:
       - label: Apply Now!
         url: /about
         style: primary
-    footnote: *Free for Women and other people who belong to underrepresented groups in tech.
+    footnote: \*Free for Women and other people who belong to underrepresented groups in tech.
     align: center
     padding_top: large
     padding_bottom: large
