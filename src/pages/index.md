@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     title: Learn. Deploy. Engage.
     content: |
-      **July 25 - 29, 2021**
+      **Online, July 25 - 29, 2021**
+
+      **Europe 11:00-13:00 | Australia 19:00-21:00**
     actions:
       - label: Apply Now!
         url: /about
