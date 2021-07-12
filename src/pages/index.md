@@ -116,11 +116,33 @@ sections:
     grid_items:
       - title: Agenda
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          We'll meet every day for five days for a workshop, where we'll connect
+          a pre-made Angular application to Azure, step by step. First we'll
+          deploy it on Static Web Apps, then add an API, connect to Cosmos DB,
+          use authentication and authorization, and configure routing. The
+          workshops will be recorded.
+
+
+          After the workshop we'll have Q\&A where Shmuela will take a look at
+          your projects and help you both with Angular and Azure. Several
+          mentors will be available throughout the week for additional
+          assistance. Additional relevant content will be provided, such as
+          video tutorials and Learn Modules. 
+
+
+          The challenge consists of three parts, for which you'll be eligible
+          for an Azure Hero Badge: 
+
+
+          1.  Deploying your own application to Static Web Apps, 
+
+
+          2.  Completing the Learn Modules provided in the Cloud Skills
+          Challenge,
+
+
+          3.  Sharing a post where you tell about your experience.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
