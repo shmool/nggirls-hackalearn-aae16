@@ -98,7 +98,7 @@ sections:
           services such as DB, or perform heavy or confidential logic in a
           secure environment. These functions can be triggered by HTTP requests,
           database actions, and more.
-        image: images/feature-2.jpg
+        image: images/Functions.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
