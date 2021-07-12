@@ -138,7 +138,7 @@ sections:
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
           semper.
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: The Challenge
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
