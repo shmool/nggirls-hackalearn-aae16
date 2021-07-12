@@ -73,7 +73,7 @@ export default class HeroSection extends React.Component {
                 				</div>
                 				)}
                                 {_.get(section, 'footnote', null) && (
-                				<div className="hero__copy">
+                				<div className="hero__footnote">
                 					{markdownify(_.get(section, 'footnote', null))}
                 				</div>
                 				)}
