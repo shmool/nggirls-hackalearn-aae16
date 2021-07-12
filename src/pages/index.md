@@ -141,11 +141,11 @@ sections:
       - title: Participating
         title_align: left
         content: >
-          The workshops are designed for developers who have some experience
-          with Angular. It can be suitable also for developers with experience
-          with other front-end frameworks such as React or Vue. We will use
-          Angular-specific methods for HTTP requests and routing, but you can
-          implicate on your preferable framework.
+          The workshops are free for women, and designed for developers who have
+          some experience with Angular. It can be suitable also for developers
+          with experience with other front-end frameworks such as React or Vue.
+          We will use Angular-specific methods for HTTP requests and routing,
+          but you can implicate on your preferable framework.
 
 
           You may or may not have experience with back end or other Cloud
