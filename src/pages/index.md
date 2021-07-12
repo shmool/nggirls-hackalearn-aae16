@@ -130,7 +130,7 @@ sections:
           assistance. Additional relevant content will be provided, such as
           video tutorials and Learn Modules.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: Participating
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
