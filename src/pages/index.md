@@ -146,9 +146,9 @@ sections:
 
 
           Shortly after applying to HackaLearn we will inform you whether you
-          have the necessary skills to attend. We may suggest other learning
-          programs or, if you seem to have enough experience, invite you as a
-          mentor.
+          have the necessary prerequisites to attend. We may suggest other
+          learning programs or, if you seem to have enough experience, invite
+          you as a mentor.
         content_align: left
       - title: The Challenge
         title_align: left
