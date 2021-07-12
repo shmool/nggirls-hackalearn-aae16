@@ -122,18 +122,18 @@ sections:
       - title: Agenda
         title_align: left
         content: >
-          During the five days we'll meet every day for a 2-hour workshop, where
-          we'll connect a pre-made Angular application to Azure, step by step.
-          First we'll deploy it on Static Web Apps, then add an API, connect to
-          Cosmos DB, use authentication and authorization, and configure
-          routing. The workshops will be recorded.
+          During the five days we'll meet every day for a 2-hour workshop
+          (11:00-13:00 CEST), where we'll connect a pre-made Angular application
+          to Azure, step by step. First we'll deploy it on Static Web Apps, then
+          add an API, connect to Cosmos DB, use authentication and
+          authorization, and configure routing. The workshops will be recorded.
 
 
-          After the workshop we'll have Q\&A where Shmuela will take a look at
-          your projects and help you both with Angular and Azure. Several
-          mentors will be available throughout the week for additional
-          assistance. Additional relevant content will be provided, such as
-          video tutorials and Learn Modules.
+          After the workshop we'll have Q\&A (13:30-14:30 CEST) where Shmuela
+          will take a look at your projects and help you both with Angular and
+          Azure. Several mentors will be available throughout the week for
+          additional assistance. Additional relevant content will be provided,
+          such as video tutorials and Learn Modules.
 
 
           About a week later we'll meet again to present our applications.
