@@ -72,11 +72,6 @@ export default class HeroSection extends React.Component {
                 					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                 				</div>
                 				)}
-                                {_.get(section, 'footnote', null) && (
-                				<div className="hero__footnote">
-                					{markdownify(_.get(section, 'footnote', null))}
-                				</div>
-                				)}
                 			</div>
                 			)}
                 		</div>
