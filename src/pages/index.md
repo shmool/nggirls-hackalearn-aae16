@@ -13,6 +13,7 @@ sections:
       - label: Apply Now!
         url: /about
         style: primary
+    footnote: 
     align: center
     padding_top: large
     padding_bottom: large
