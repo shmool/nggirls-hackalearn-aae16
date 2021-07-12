@@ -244,6 +244,8 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
+    content: |
+      dgsdgsdfghsdf
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
