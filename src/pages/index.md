@@ -245,7 +245,8 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
     content: >
-      ngGirls HackaLearn is for women and underrepresented communities in tech.
+      \*ngGirls HackaLearn is for women and underrepresented communities in
+      tech.
 
 
       If you're not able to join us, check out the next HackaLearn week that is
