@@ -111,7 +111,7 @@ sections:
     padding_top: none
     background_color: none
   - type: grid_section
-    title: Frequently Asked Questions
+    title: What's HackaLearn?
     subtitle: Our vision
     grid_items:
       - title: How can I get to the venue?
