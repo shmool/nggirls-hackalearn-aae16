@@ -244,8 +244,12 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
-    content: |
-      dgsdgsdfghsdf
+    content: >
+      The workshop is for women and underrepresented communities in tech. 
+
+
+      If you're not able to join us, check out the next workshop that is open
+      for everyone, on August 1-5.
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
