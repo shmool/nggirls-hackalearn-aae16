@@ -8,7 +8,7 @@ sections:
 
       **Europe 11:00-13:00 | Australia 19:00-21:00**
 
-      *FREE for Women*
+      *FREE for Women\**
     actions:
       - label: Apply Now!
         url: /about
