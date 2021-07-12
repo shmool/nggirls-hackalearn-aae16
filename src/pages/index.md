@@ -136,7 +136,7 @@ sections:
           video tutorials and Learn Modules.
 
 
-          We'll meet again about a week later to present our applications.
+          About a week later we'll meet again to present our applications.
         content_align: left
       - title: Participating
         title_align: left
