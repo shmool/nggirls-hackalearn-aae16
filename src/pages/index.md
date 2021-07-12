@@ -74,6 +74,42 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+  - type: features_section
+    features:
+      - title: Static Web Apps
+        content: >
+          The new service by Azure takes care of all the necessary details of
+          deployment. It takes your project straight from GitHub, adds SSL
+          certificate, provides user management (authentication and
+          authorization) out of the box, enables seamless integration with your
+          API, and more.
+        image: images/feature-1.jpg
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: sixty
+      - title: Azure Functions
+        content: >
+          Write backend functions that connect your front end with backend
+          services such as DB, or perform heavy or confidential logic in a
+          secure environment. These functions can be triggered by HTTP requests,
+          database actions, and more.
+        image: images/feature-2.jpg
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: sixty
+      - title: Cosmos DB
+        content: >
+          With this NoSQL database your application can scale and grow without
+          the need to to update your schema. Cosmos DB comes with different
+          "flavors" (APIs) that let you use a DB language you're familiar with.
+        image: images/feature-3.jpg
+        image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: sixty
+    feature_padding_vert: large
+    align: center
+    padding_top: none
+    background_color: none
   - type: grid_section
     title: Frequently Asked Questions
     subtitle: Our vision
@@ -122,42 +158,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 15
-  - type: features_section
-    features:
-      - title: Static Web Apps
-        content: >
-          The new service by Azure takes care of all the necessary details of
-          deployment. It takes your project straight from GitHub, adds SSL
-          certificate, provides user management (authentication and
-          authorization) out of the box, enables seamless integration with your
-          API, and more.
-        image: images/feature-1.jpg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
-      - title: Azure Functions
-        content: >
-          Write backend functions that connect your front end with backend
-          services such as DB, or perform heavy or confidential logic in a
-          secure environment. These functions can be triggered by HTTP requests,
-          database actions, and more.
-        image: images/feature-2.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-      - title: Cosmos DB
-        content: >
-          With this NoSQL database your application can scale and grow without
-          the need to to update your schema. Cosmos DB comes with different
-          "flavors" (APIs) that let you use a DB language you're familiar with.
-        image: images/feature-3.jpg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
-    background_color: none
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
