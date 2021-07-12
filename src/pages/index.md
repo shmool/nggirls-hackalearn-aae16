@@ -13,7 +13,9 @@ sections:
       - label: Apply Now!
         url: /about
         style: primary
-    footnote: \*Free for Women and other people who belong to underrepresented groups in tech.
+    footnote: >-
+      \*Free for Women and other people who belong to underrepresented groups in
+      tech.
     align: center
     padding_top: large
     padding_bottom: large
@@ -24,31 +26,6 @@ sections:
     image: images/ngGirls HackaLearn.png
     image_alt: ngGirls HackaLearn
     subtitle: From Front-End to Full-Stack in Five Days
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - type: grid_section
     grid_items:
       - title: Learn
@@ -138,6 +115,31 @@ sections:
     align: center
     padding_top: none
     background_color: none
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
   - type: grid_section
     title: What's HackaLearn?
     subtitle: Our vision
