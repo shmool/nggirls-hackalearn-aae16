@@ -152,6 +152,10 @@ sections:
           have the necessary prerequisites to attend. We may suggest other
           learning programs or, if you seem to have enough experience, invite
           you as a mentor.
+
+
+          Participation is free of charge. In addition, Azure is free for
+          (generous) limited use.
         content_align: left
       - title: The Challenge
         title_align: left
