@@ -142,7 +142,13 @@ sections:
 
           You may or may not have experience with back end or other Cloud
           services (Azure, AWS, Google Cloud and others). We will go through the
-          process and ideas behind deployment and Serverless architecture. 
+          process and ideas behind deployment and Serverless architecture.
+
+
+          Shortly after applying to HackaLearn we will inform you whether you
+          have the necessary skills to attend. We may suggest other learning
+          programs or, if you seem to have enough experience, invite you as a
+          mentor.
         content_align: left
       - title: The Challenge
         title_align: left
