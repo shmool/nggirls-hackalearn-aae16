@@ -169,7 +169,7 @@ sections:
 
           3.  Sharing a post where you tell about your experience.
         content_align: left
-      - title: What payment types do you accept?
+      - title: Details
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
