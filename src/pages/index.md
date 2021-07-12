@@ -88,7 +88,6 @@ sections:
           certificate, provides user management (authentication and
           authorization) out of the box, enables seamless integration with your
           API, and more.
-        image: images/appservicestatic.jpeg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
