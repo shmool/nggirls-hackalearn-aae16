@@ -388,6 +388,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
+        image: images/marvelous-potato.png
       - title: 'Um, its about your JavaScript...'
         content: >-
           JAMstack is revolutionising the way we think about workflow by
