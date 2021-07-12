@@ -228,7 +228,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - type: cta_section
-    title: The workshop is free for women and underrepresented communities.
+    title: The workshop is free. Apply now.
     actions:
       - label: Get tickets
         url: /thank-you
