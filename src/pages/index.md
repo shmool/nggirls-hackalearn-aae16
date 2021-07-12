@@ -91,6 +91,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
+        image: images/SWA.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
