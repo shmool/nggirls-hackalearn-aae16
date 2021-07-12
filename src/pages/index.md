@@ -133,6 +133,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/marvelous-potato.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
