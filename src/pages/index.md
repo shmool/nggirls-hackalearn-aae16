@@ -102,7 +102,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    background_image: images/marvelous-stegosaurus.png
   - type: features_section
     features:
       - title: Static Web Apps
