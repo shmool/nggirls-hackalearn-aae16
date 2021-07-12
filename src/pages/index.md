@@ -245,7 +245,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
     content: >
-      The workshop is for women and underrepresented communities in tech. 
+      This workshop is for women and underrepresented communities in tech.
 
 
       If you're not able to join us, check out the next workshop that is open
