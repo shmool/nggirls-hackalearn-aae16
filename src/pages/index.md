@@ -105,6 +105,9 @@ sections:
     features:
       - title: Static Web Apps
         content: >
+          ## Static Web Apps
+
+
           The new service by Azure takes care of all the necessary details of
           deployment. It takes your project straight from GitHub, adds SSL
           certificate, provides user management (authentication and
