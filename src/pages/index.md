@@ -119,6 +119,9 @@ sections:
         image: images/SWA.png
       - title: Azure Functions
         content: >
+          Azure Functions
+
+
           Write backend functions that connect your front end with backend
           services such as DB, or perform heavy or confidential logic in a
           secure environment. These functions can be triggered by HTTP requests,
