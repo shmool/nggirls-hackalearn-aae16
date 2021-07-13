@@ -319,6 +319,8 @@ sections:
         content: |
           hello@ng-girls.org
       - title: Follow Us
+        content: |
+          Twitter
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
