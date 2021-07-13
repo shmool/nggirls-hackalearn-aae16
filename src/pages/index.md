@@ -132,6 +132,9 @@ sections:
         media_width: sixty
       - title: Cosmos DB
         content: >
+          ## Cosmos DB
+
+
           With this NoSQL database your application can scale and grow without
           the need to to update your schema. Cosmos DB comes with different
           "flavors" (APIs) that let you use a DB language you're familiar with.
