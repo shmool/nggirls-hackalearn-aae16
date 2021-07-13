@@ -407,12 +407,12 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Been super impressed with developer talks of the Event Conf. Great
-          conference realy enjoy it!
+      - content: >
+          ...It is easy to drown in the sea of information. I am grateful for
+          enthusiasts such as Shmuela Jacobs that lend me a hand in my way!
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Oxana ,** *CEO, Studio*
         image: images/Oxana.jpeg
         image_alt: Miles Tone
         image_position: left
