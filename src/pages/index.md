@@ -367,6 +367,7 @@ sections:
         media_position: right
         media_width: sixty
         image: images/ngGirls ng-conf 2021 collage.jpeg
+        image_alt: ngGirls at ng-conf 2021 collage
       - title: 'Um, its about your JavaScript...'
         content: >-
           JAMstack is revolutionising the way we think about workflow by
