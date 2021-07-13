@@ -320,7 +320,13 @@ sections:
           hello@ng-girls.org
       - title: Follow Us
         content: |
-          Twitter
+          [Twitter](https://twitter.com/AngularGirls)
+
+          [LinkedIn](https://www.linkedin.com/company/angulargirls/)
+
+
+
+          [ngGirls workshops](https://workshops.ng-girls.org)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
