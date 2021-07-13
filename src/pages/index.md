@@ -315,7 +315,7 @@ sections:
     background_color: secondary
   - type: grid_section
     grid_items:
-      - title: Address
+      - title: Contact Us
         content: |-
           1234 Some St.<br/>
           Some City, ST 12345<br/>
