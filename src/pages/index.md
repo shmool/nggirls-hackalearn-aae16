@@ -319,11 +319,6 @@ sections:
         content: |
           hello@ng-girls.org
       - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
