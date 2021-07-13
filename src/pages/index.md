@@ -85,7 +85,8 @@ sections:
         video_embed_html: >-
           I truly hope that you have time to relax during the summer vacation.
           If you'll have a few hours every now and then to learn something new,
-          build
+          expand your portfolio, and take your ideas to the next level - don't
+          miss up on this opportunity.
         media_position: top
         media_width: fifty
         align: left
