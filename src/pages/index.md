@@ -317,7 +317,7 @@ sections:
     grid_items:
       - title: Contact Us
         content: |
-          \<a href="mailto:hello@ng-girls.org">hello@ng-girls.org\</a>
+          hello@ng-girls.org
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
