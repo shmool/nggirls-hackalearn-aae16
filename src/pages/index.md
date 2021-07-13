@@ -357,7 +357,7 @@ sections:
     background_color: none
   - type: features_section
     title: ngGirls - the Online Experience
-    subtitle: '2020'
+    subtitle: Global Distribution
     features:
       - title: Hands-on with the ngGirls community
         content: >-
