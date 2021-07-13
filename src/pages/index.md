@@ -100,7 +100,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: secondary
   - type: features_section
     features:
       - title: Static Web Apps
