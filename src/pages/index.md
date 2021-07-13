@@ -360,7 +360,7 @@ sections:
     subtitle: Global Distribution
     features:
       - title: Hands-on with the ngGirls community
-        content: >
+        content: >+
           > I’m selling shelled pecans, but I’m more excited to show off my new
           @angular website!  A big thanks to @AngularGirls & my hubs
           @ArvidOutdoors for teaching me!
@@ -376,8 +376,9 @@ sections:
           add some fun activities such as quizzes and online yoga sessions.
 
 
-          [Jen's
-          Tweet](https://twitter.com/JennLynnHalv/status/1348843355195797504)
+          Check out [Jen's
+          tweet](https://twitter.com/JennLynnHalv/status/1348843355195797504)
+
         media_position: right
         media_width: sixty
         image: images/ngGirls ng-conf 2021 collage.jpeg
