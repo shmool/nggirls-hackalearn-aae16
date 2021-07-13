@@ -11,7 +11,8 @@ sections:
       *FREE for Women\**
     actions:
       - label: Apply Now!
-        url: /about
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSeNcLy7p2FMi3EITnVP6pLjEGdPjjq_Sc5Gc6QCtq4aY7PM2g/viewform?usp=sf_link
         style: primary
     footnote: >-
       \*Free for Women and other people who belong to underrepresented groups in
