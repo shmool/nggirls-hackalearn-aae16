@@ -258,8 +258,8 @@ sections:
       tech.
 
 
-      If you're not able to join us, check out the next HackaLearn week that is
-      open for everyone, on August 8-12.
+      If you're not able to join us this time, check out the next HackaLearn
+      week that is open for everyone, on August 8-12.
   - type: features_section
     title: ngGirls - the Online Experience
     subtitle: Global Distribution
