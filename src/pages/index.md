@@ -361,10 +361,19 @@ sections:
     features:
       - title: Hands-on with the ngGirls community
         content: >
+          > I’m selling shelled pecans, but I’m more excited to show off my new
+          @angular website!  A big thanks to @AngularGirls & my hubs
+          @ArvidOutdoors for teaching me! 
+
+          >
+
+          > *- Jen Halvorson, participated and mentored in ngGirls events*
+
+
           The ngGirls team makes sure that the online workshops would be
           engaging and beneficial. As in our in-person events, we have speakers
           and mentors who present and check your projects remotely. We always
-          add some fun activities such as quizzes and online yoga sessions. 
+          add some fun activities such as quizzes and online yoga sessions.
         media_position: right
         media_width: sixty
         image: images/ngGirls ng-conf 2021 collage.jpeg
