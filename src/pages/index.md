@@ -97,6 +97,7 @@ sections:
           front-end to a full-featured application that you can serve to your
           audience right away.
         align: center
+        image: images/ngGirls learn.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
