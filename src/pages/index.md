@@ -408,11 +408,13 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          ...It is easy to drown in the sea of information. I am grateful for
-          enthusiasts such as Shmuela Jacobs that lend me a hand in my way!
+          It was a great experience for me to start learning a new frontend
+          library (Angular). In addition Shmuela provided excellent
+          possibilities to move forward to full-stack development by using Azure
+          Functions and Azure CosmosDB.
 
 
-          **Oxana ,** *CEO, Studio*
+          **Oxana Shvartzman ,** *Front end Developer*
         image: images/Oxana.jpeg
         image_alt: Miles Tone
         image_position: left
