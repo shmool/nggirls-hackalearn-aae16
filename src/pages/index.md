@@ -83,8 +83,9 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          I truly hope that you have time to relax during the summer vacation.
+          If you'll have a few hours every now and then to learn something new,
+          build
         media_position: top
         media_width: fifty
         align: left
