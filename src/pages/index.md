@@ -146,7 +146,7 @@ sections:
     feature_padding_vert: large
     align: center
     padding_top: none
-    background_color: none
+    background_color: primary
   - type: grid_section
     title: What's HackaLearn?
     subtitle: Our vision
