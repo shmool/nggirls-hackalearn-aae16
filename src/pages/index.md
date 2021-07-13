@@ -96,7 +96,6 @@ sections:
           front-end to a full-featured application that you can serve to your
           audience right away.
         align: center
-        image: images/ngGirls learn.png
         media_position: bottom
     feature_padding_vert: medium
     align: center
