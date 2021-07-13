@@ -26,7 +26,7 @@ sections:
     image: images/ngGirls HackaLearn.png
     image_alt: ngGirls HackaLearn
     subtitle: From Front-End to Full-Stack in Five Days
-  - title: lorem-ipsum
+  - title: Upgrade your skills
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
