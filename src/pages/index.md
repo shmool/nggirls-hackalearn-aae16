@@ -360,10 +360,11 @@ sections:
     subtitle: Global Distribution
     features:
       - title: Hands-on with the ngGirls community
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+        content: >
+          The ngGirls team makes sure that the online workshops would be
+          engaging and beneficial. As in our in-person events, we have speakers
+          and mentors who present and check your projects remotely. We always
+          add some fun activities such as quizzes and online yoga sessions. 
         media_position: right
         media_width: sixty
         image: images/ngGirls ng-conf 2021 collage.jpeg
