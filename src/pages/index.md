@@ -119,7 +119,7 @@ sections:
         image: images/SWA.png
       - title: Azure Functions
         content: >
-          Azure Functions
+          ## Azure Functions
 
 
           Write backend functions that connect your front end with backend
