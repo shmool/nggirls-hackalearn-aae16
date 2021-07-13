@@ -381,8 +381,11 @@ sections:
       - title: 'Um, its about your JavaScript...'
         content: >
           > ...It is easy to drown in the sea of information. I am grateful for
-          enthusiasts such as Shmuela Jacobs that lend me a hand in my way! *-
-          Oxana Shvartzman*
+          enthusiasts such as Shmuela Jacobs that lend me a hand in my way! 
+
+          >
+
+          > *- Oxana Shvartzman*
 
 
           ngGirls expands its horizons with new programs, for beginners as well
