@@ -65,7 +65,7 @@ sections:
     align: center
     background_color: secondary
   - title: Upgrade your skills
-    subtitle: Heading up for a summer vacation? This is the time to...
+    subtitle: Heading up for a summer vacation? Now is the time to...
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
