@@ -69,17 +69,25 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## I truly hope that you have time to relax during the summer
+          vacation. If you'll have a few hours every now and then to learn
+          something new, expand your portfolio, and take your ideas to the next
+          level - don't miss up on this opportunity.
+
+
+
+
+          Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
