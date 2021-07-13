@@ -272,7 +272,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/marvelous-potato.png
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
