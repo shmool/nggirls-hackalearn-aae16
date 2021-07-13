@@ -366,7 +366,7 @@ sections:
           it on the web within a month.
         media_position: right
         media_width: sixty
-        image: images/marvelous-potato.png
+        image: images/ngGirls ng-conf 2021 collage.jpeg
       - title: 'Um, its about your JavaScript...'
         content: >-
           JAMstack is revolutionising the way we think about workflow by
