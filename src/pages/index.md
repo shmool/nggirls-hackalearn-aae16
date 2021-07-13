@@ -240,7 +240,8 @@ sections:
     title: HackaLearn is free. Apply now.
     actions:
       - label: Apply for HackaLearn
-        url: /thank-you
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSeNcLy7p2FMi3EITnVP6pLjEGdPjjq_Sc5Gc6QCtq4aY7PM2g/viewform?usp=sf_link
         style: primary
         has_icon: true
         icon: arrow-right
