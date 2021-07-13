@@ -197,6 +197,9 @@ sections:
           for an Azure Hero Badge:
 
 
+          ![](https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/builder.jpg)
+
+
           1.  Deploying your own application to Static Web Apps,
 
 
