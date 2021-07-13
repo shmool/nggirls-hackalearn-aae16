@@ -395,11 +395,11 @@ sections:
 
           ngGirls expands its horizons with new programs, for beginners as well
           as professional developers. The first HackaLearn was led by Shmuela
-          for the Israeli audience. 
+          for the Israeli audience.
 
 
-          Check out [Oxana's full post about her
-          experience](https://www.linkedin.com/posts/oxana-shvartzman_hackalearn-angular-staticwebapp-activity-6809499965707075584-8iys).
+          Check out [Oxana's post about
+          HackaLearn](https://www.linkedin.com/posts/oxana-shvartzman_hackalearn-angular-staticwebapp-activity-6809499965707075584-8iys).
         media_position: left
         media_width: sixty
         image: images/ngGirls ngPoland 2020 collage.jpeg
