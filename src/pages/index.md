@@ -379,6 +379,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: sixty
+        image: images/ngGirls ngPoland 2020 collage.jpeg
     feature_padding_vert: large
     align: center
     padding_top: large
