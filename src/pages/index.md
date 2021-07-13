@@ -76,7 +76,7 @@ sections:
           miss up on this opportunity.
 
 
-          From Front-end to Full-featured Web App
+          ## Transform your Angular App to a Full-Featured Web App
 
 
           With my guidance you'll be able to deploy and add essential features
