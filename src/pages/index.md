@@ -210,6 +210,7 @@ sections:
           3.  Sharing a post where you tell about your experience.
         content_align: left
         image: images/Oxana.jpeg
+        image_position: right
       - title: Details
         title_align: left
         content: >
