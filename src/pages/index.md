@@ -207,7 +207,7 @@ sections:
           3.  Sharing a post where you tell about your experience.
         content_align: left
         image: images/Azure Hero builder.jpeg
-        image_position: right
+        image_position: left
       - title: Details
         title_align: left
         content: >
