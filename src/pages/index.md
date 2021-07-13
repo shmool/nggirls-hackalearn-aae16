@@ -219,7 +219,7 @@ sections:
 
           If you're not able to attend this time, or you don't belong to an
           underrepresented group in tech, you may join the next round of
-          HackaLearn which will be open to everyone, on August 8-12.
+          HackaLearn which will be open for everyone, on August 8-12.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
