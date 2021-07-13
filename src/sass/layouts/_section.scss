@@ -44,6 +44,11 @@
 	&:not(:first-child) {
 		margin-top: 1.11111em;
 	}
+
+.hero-footnote {
+        margin: 0;
+        align-text: left;
+    }
 }
 
 .hero__actions {
