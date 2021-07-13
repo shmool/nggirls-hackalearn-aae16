@@ -373,6 +373,10 @@ sections:
         content: >
           > ...It is easy to drown in the sea of information. I am grateful for
           enthusiasts such as Shmuela Jacobs that lend me a hand in my way!
+          [![](https://media-exp3.licdn.com/dms/image/C4E03AQGq-730Sfup0Q/profile-displayphoto-shrink\_100\_100/0/1616785421967?e=1631750400\&v=beta\&t=QSoL_PxDiEk_mkS_VHtmRrPJsGdPv-GD4uilTS-ktWw)**Oxana
+          Shvartzman**](https://www.linkedin.com/in/oxana-shvartzman?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADA72vcBrsAILZAcIM1LIRqvsThqu5Y8QcY)
+
+          >
 
 
           ngGirls expands its horizons with new programs, for beginners as well
