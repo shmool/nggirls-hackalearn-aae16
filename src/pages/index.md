@@ -356,7 +356,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: ngGirls - the Online Experience
     subtitle: '2020'
     features:
       - title: Hands-on with the ngGirls community
