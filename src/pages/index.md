@@ -98,6 +98,7 @@ sections:
           audience right away.
         align: center
         image: images/ngGirls learn.png
+        media_position: bottom
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
