@@ -70,12 +70,17 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >
-          ## I truly hope that you have time to relax during the summer
-          vacation. If you'll have a few hours every now and then to learn
-          something new, expand your portfolio, and take your ideas to the next
-          level - don't miss up on this opportunity.
+          I truly hope that you have time to relax during the summer vacation.
+          If you'll have a few hours every now and then to learn something new,
+          expand your portfolio, and take your ideas to the next level - don't
+          miss up on this opportunity.
 
 
+          From Front-end to Full-featured Web App
+
+
+          With my guidance you'll be able to deploy and add essential features
+          to your web application.
 
 
           Lorem ipsum
