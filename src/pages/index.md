@@ -239,7 +239,7 @@ sections:
   - type: cta_section
     title: HackaLearn is free. Apply now.
     actions:
-      - label: Get tickets
+      - label: Apply for HackaLearn
         url: /thank-you
         style: primary
         has_icon: true
