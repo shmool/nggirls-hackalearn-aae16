@@ -370,10 +370,15 @@ sections:
         image: images/ngGirls ng-conf 2021 collage.jpeg
         image_alt: ngGirls at ng-conf 2021 collage
       - title: 'Um, its about your JavaScript...'
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
+        content: >
+          > ...It is easy to drown in the sea of information. I am grateful for
+          enthusiasts such as Shmuela Jacobs that lend me a hand in my way!
+
+
+          ngGirls expands its horizons with new programs, for beginners as well
+          as experienced developers. The first HackaLearn was led by Shmuela for
+          the Israeli audience. Check out [Oxana's full post about her
+          experience](https://www.linkedin.com/posts/oxana-shvartzman_hackalearn-angular-staticwebapp-activity-6809499965707075584-8iys).
         media_position: left
         media_width: sixty
         image: images/ngGirls ngPoland 2020 collage.jpeg
