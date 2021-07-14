@@ -318,7 +318,6 @@ sections:
     subtitle: Yours Truly
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >
           Hi! I'm Shmuela. I’m a proud ngMom of two little ngBoys. Besides that,
           I'm a front-end developer and consultant, working as a Cloud Developer
