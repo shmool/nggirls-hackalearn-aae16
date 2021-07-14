@@ -446,17 +446,20 @@ seo:
         Azure. 
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/ngGirls_learn.png
+      value: images/ngGirls_learn.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: ngGirls HackaLearn - deploy your app on Azure
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        ngGirls HackaLearn is a week of online workshops, free for ngGirls.
+        We'll deploy and connect our Angular apps to serverless services on
+        Azure. 
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/ngGirls_learn.png
       relativeUrl: true
 template: advanced
 ---
