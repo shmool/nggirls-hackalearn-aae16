@@ -429,7 +429,10 @@ sections:
     background_color: none
 seo:
   title: 'ngGirls HackaLearn - 5 days of workshops, deploy your app on Azure'
-  description: ngGirls HackaLearn is a week of online worskshops
+  description: >-
+    ngGirls HackaLearn is a week of online workshops and consultation led by
+    Shmuela Jacobs, free for ngGirls. We'll learn how to deploy and connect our
+    Angular apps to backend serverless services on Azure. July 25-29
   extra:
     - name: 'og:type'
       value: website
