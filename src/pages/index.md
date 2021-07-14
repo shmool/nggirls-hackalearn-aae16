@@ -410,7 +410,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          ![](/\_static/app-assets/modern-spider.png)
+          ![](/\_static/app-assets/ngGirls%20banner%202%20lines%20small.png)
         content_align: left
         actions: []
         actions_align: left
