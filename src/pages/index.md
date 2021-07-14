@@ -428,20 +428,25 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Stackbit Event Theme
-  description: The preview of the Event theme
+  title: ngGirls HackaLearn - deploy your app on Azure
+  description: >-
+    ngGirls HackaLearn is a week of online workshops, free for ngGirls. We'll
+    deploy and connect our Angular apps to serverless services on Azure. 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: ngGirls HackaLearn - deploy your app on Azure
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        ngGirls HackaLearn is a week of online workshops, free for ngGirls.
+        We'll deploy and connect our Angular apps to serverless services on
+        Azure. 
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /_static/app-assets/ngGirls_learn.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

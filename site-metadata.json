@@ -5,9 +5,9 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "Event",
+        "title": "ngGirls HackaLearn",
         "logo": "images/ngGirls banner transparent.png",
-        "logo_alt": "Event logo",
+        "logo_alt": "ngGirls",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [],
