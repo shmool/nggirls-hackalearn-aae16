@@ -314,7 +314,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: Shmuela Jacobs
+  - title: 'Your instructor, Shmuela Jacobs'
     subtitle: Yours Truly
     features:
       - title: lorem-ipsum
