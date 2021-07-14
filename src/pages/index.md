@@ -328,7 +328,6 @@ sections:
         type: feature
         image: images/Shmuela with Ziggi.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
