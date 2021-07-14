@@ -315,7 +315,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Yours Truly
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
