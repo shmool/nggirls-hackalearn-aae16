@@ -392,12 +392,9 @@ sections:
   - type: grid_section
     grid_items:
       - title: Contact Us
-        content: |
+        content: |+
           hello@ng-girls.org
 
-
-
-          ![](/\_static/app-assets/ngGirls%20banner%20transparent.png)
       - title: Follow Us
         content: |
           [Twitter](https://twitter.com/AngularGirls)
