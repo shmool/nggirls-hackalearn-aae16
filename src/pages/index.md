@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/TLV2020 1.jpeg
+    background_image: images/TLV2020 1 small.jpeg
     background_image_opacity: 25
     background_image_size: cover
     image: images/ngGirls HackaLearn.png
@@ -394,6 +394,19 @@ sections:
       open for everyone, on August 8-12.
   - type: grid_section
     grid_items:
+      - title_align: left
+        content: |
+          ![](/\_static/app-assets/marvelous-tomato.png)
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Contact Us
         content: |
           hello@ng-girls.org
@@ -406,7 +419,7 @@ sections:
 
 
           [ngGirls workshops](https://workshops.ng-girls.org)
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
