@@ -394,18 +394,6 @@ sections:
       open for everyone, on August 8-12.
   - type: grid_section
     grid_items:
-      - title: Contact Us
-        content: |
-          hello@ng-girls.org
-      - title: Follow Us
-        content: |
-          [Twitter](https://twitter.com/AngularGirls)
-
-          [LinkedIn](https://www.linkedin.com/company/angulargirls/)
-
-
-
-          [ngGirls workshops](https://workshops.ng-girls.org)
       - title_align: left
         content: |
           ![](/\_static/app-assets/marvelous-tomato.png)
@@ -419,6 +407,18 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Contact Us
+        content: |
+          hello@ng-girls.org
+      - title: Follow Us
+        content: |
+          [Twitter](https://twitter.com/AngularGirls)
+
+          [LinkedIn](https://www.linkedin.com/company/angulargirls/)
+
+
+
+          [ngGirls workshops](https://workshops.ng-girls.org)
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
