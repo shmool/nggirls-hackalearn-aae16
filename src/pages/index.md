@@ -428,7 +428,7 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Stackbit Event Theme
+  title: 'ngGirls HackaLearn - 5 days of workshops, deploy your app on Azure'
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
