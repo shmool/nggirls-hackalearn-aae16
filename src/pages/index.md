@@ -405,6 +405,8 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        content: |
+          ![](/\_static/app-assets/oval-giraffe.png)
       - title: Contact Us
         content: |
           hello@ng-girls.org
