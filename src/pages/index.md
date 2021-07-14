@@ -320,11 +320,12 @@ sections:
       - title: lorem-ipsum
         content: >
           Hi! I'm Shmuela. I’m a proud ngMom of two little ngBoys. Besides that,
-          I'm a front-end developer and consultant, working as a Cloud Developer
-          Advocate at Microsoft. I'm a Google Developer Expert in Angular and
-          Web Technologies. My passion for teaching, which had been expressed in
-          the past as a guide in science museums and TA in university, has been
-          integrated in my journey of becoming a developer.
+          I'm a front-end developer and consultant, the founder of ngGirls,
+          working as a Cloud Developer Advocate at Microsoft. I'm a Google
+          Developer Expert in Angular and Web Technologies. My passion for
+          teaching, which had been expressed in the past as a guide in science
+          museums and TA in university, has been integrated in my journey of
+          becoming a developer.
 
 
           During my masters degree I started loving programming. I also realized
