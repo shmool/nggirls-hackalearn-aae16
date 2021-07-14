@@ -429,7 +429,7 @@ sections:
     background_color: none
 seo:
   title: 'ngGirls HackaLearn - 5 days of workshops, deploy your app on Azure'
-  description: The preview of the Event theme
+  description: 'ngGirls HackaLearn is a 5 day '
   extra:
     - name: 'og:type'
       value: website
