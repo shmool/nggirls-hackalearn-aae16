@@ -319,7 +319,21 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: "Hi! I'm Shmuela. I’m a proud ngMom of two little ngBoys. Besides that, I'm a front-end developer and consultant, working as a Cloud Developer Advocate at Microsoft. I'm a Google Developer Expert in Angular and Web Technologies. My passion for teaching, which had been expressed in the past as a guide in science museums and TA in university, has been integrated in my journey of becoming a developer.\n\nDuring my masters degree I started loving programming. I also realized how important the Web is - browsers and web apps have become the most used programs on our computers and phones. While attending several meetups to explore JavaScript frameworks I fell in love with AngularJS. I took a course and started working as a front-end consultant, while teaching developers in meetups and conferences.\n\nWhen Angular went through a rewrite and became more structured I saw in it a great opportunity to teach web programming for beginners. I wanted to inspire specifically women, as I was inspired and motivated by programs such as Django Girls, Rails Girls and Google CodeF. I organized the first ngGirls workshop with the help of many people in the community. It was a great success and excitement. I kept on collaborating with conferences and tech companies to organize more workshops, as the ngGirls team grew with passionate volunteers.\_\n\nToday I enjoy a fulfilling position at Microsoft, getting to do everything I love: coding web apps, teaching and inspiring beginners and advanced programmers, and maintaining a warm, loving home for my family.\n"
+        content: >
+          Hi! I'm Shmuela. I’m a proud ngMom of two little ngBoys. Besides that,
+          I'm a front-end developer and consultant, working as a Cloud Developer
+          Advocate at Microsoft. I'm a Google Developer Expert in Angular and
+          Web Technologies. My passion for teaching, which had been expressed in
+          the past as a guide in science museums and TA in university, has been
+          integrated in my journey of becoming a developer.
+
+
+          During my masters degree I started loving programming. I also realized
+          how important the Web is - browsers and web apps have become the most
+          used programs on our computers and phones. While attending several
+          meetups to explore JavaScript frameworks I fell in love with
+          AngularJS. I took a course and started working as a front-end
+          consultant, while teaching developers in meetups and conferences.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
