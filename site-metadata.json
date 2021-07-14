@@ -24,7 +24,7 @@
         "primary_nav_links": [
             {
                 "label": "lorem-ipsum",
-                "url": "#",
+                "url": "hello@ng-girls.org",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
