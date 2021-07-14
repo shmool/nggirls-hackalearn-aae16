@@ -349,6 +349,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/Nadav 3.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
