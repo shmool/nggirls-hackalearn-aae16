@@ -314,7 +314,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Shmuela Jacobs
     subtitle: Yours Truly
     features:
       - title: lorem-ipsum
