@@ -14,6 +14,7 @@ sections:
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSeNcLy7p2FMi3EITnVP6pLjEGdPjjq_Sc5Gc6QCtq4aY7PM2g/viewform?usp=sf_link
         style: primary
+        new_window: true
     footnote: >-
       \*Free for Women and other people who belong to underrepresented groups in
       tech.
@@ -221,8 +222,9 @@ sections:
 
 
           If you're not able to attend this time, or you don't belong to an
-          underrepresented group in tech, you may join the next round of
-          HackaLearn which will be open for everyone, on August 8-12.
+          underrepresented group in tech, you may join the [next round of
+          HackaLearn](https://www.meetup.com/Angular-Nights/events/279461838/)
+          which will be open for everyone, on August 8-12.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
@@ -246,6 +248,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
+        new_window: true
     actions_position: right
     actions_width: fourty
     align: left
@@ -259,8 +262,9 @@ sections:
       tech.
 
 
-      If you're not able to join us this time, check out the next HackaLearn
-      week that is open for everyone, on August 8-12.
+      If you're not able to join us this time, check out the [next HackaLearn
+      week](https://www.meetup.com/Angular-Nights/events/279461838/) which is
+      open for everyone, on August 8-12.
   - type: features_section
     title: ngGirls - the Online Experience
     subtitle: Global Distribution
@@ -314,6 +318,80 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - title: 'Your instructor, Shmuela Jacobs'
+    subtitle: Yours Truly
+    features:
+      - title: lorem-ipsum
+        content: >
+          Hi! I'm Shmuela. I’m a proud ngMom of two little ngBoys. Besides that,
+          I'm a front-end developer and consultant, the founder of ngGirls,
+          working as a Cloud Developer Advocate at Microsoft. I'm a Google
+          Developer Expert in Angular and Web Technologies. My passion for
+          teaching, which had been expressed in the past as a guide in science
+          museums and TA in university, has been integrated in my journey of
+          becoming a developer.
+
+
+          During my masters degree I started loving programming. I also realized
+          how important the Web is - browsers and web apps have become the most
+          used programs on our computers and phones. While attending several
+          meetups to explore JavaScript frameworks I fell in love with
+          AngularJS. I took a course and started working as a front-end
+          consultant, while teaching developers in meetups and conferences.
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/Shmuela with Ziggi.png
+      - title: lorem-ipsum
+        content: "When Angular went through a rewrite and became more structured I saw in it a great opportunity to teach web programming for beginners. I wanted to inspire specifically women, as I was inspired and motivated by programs such as Django Girls, Rails Girls and Google CodeF. I founded ngGirls and organized the first workshop with the help of many people in the community. It was a great success and excitement. I kept on collaborating with conferences and tech companies to organize more workshops, as the ngGirls team grew with passionate volunteers.\_\n\nToday I enjoy a fulfilling position at Microsoft, getting to do everything I love: coding web apps, teaching and inspiring beginners and advanced programmers, and maintaining a warm, loving home for my family.\n"
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/Nadav 3.png
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
+  - type: cta_section
+    title: HackaLearn is free. Apply now.
+    actions:
+      - label: Apply for HackaLearn
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSeNcLy7p2FMi3EITnVP6pLjEGdPjjq_Sc5Gc6QCtq4aY7PM2g/viewform?usp=sf_link
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        new_window: true
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
+    content: >
+      \*ngGirls HackaLearn is for women and underrepresented communities in
+      tech.
+
+
+      If you're not able to join us this time, check out the [next HackaLearn
+      week](https://www.meetup.com/Angular-Nights/events/279461838/) which is
+      open for everyone, on August 8-12.
   - type: grid_section
     grid_items:
       - title: Contact Us
