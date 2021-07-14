@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/TLV2020 1.jpeg
+    background_image: images/TLV2020 1 small.jpeg
     background_image_opacity: 25
     background_image_size: cover
     image: images/ngGirls HackaLearn.png
