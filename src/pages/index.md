@@ -406,7 +406,7 @@ sections:
 
 
           [ngGirls workshops](https://workshops.ng-girls.org)
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
