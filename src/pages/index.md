@@ -361,6 +361,31 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: cta_section
+    title: HackaLearn is free. Apply now.
+    actions:
+      - label: Apply for HackaLearn
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSeNcLy7p2FMi3EITnVP6pLjEGdPjjq_Sc5Gc6QCtq4aY7PM2g/viewform?usp=sf_link
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
+    content: >
+      \*ngGirls HackaLearn is for women and underrepresented communities in
+      tech.
+
+
+      If you're not able to join us this time, check out the next HackaLearn
+      week that is open for everyone, on August 8-12.
   - type: grid_section
     grid_items:
       - title: Contact Us
