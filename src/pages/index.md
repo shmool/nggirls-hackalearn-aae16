@@ -406,8 +406,7 @@ sections:
 
 
           [ngGirls workshops](https://workshops.ng-girls.org)
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           ![](/\_static/app-assets/marvelous-tomato.png)
         content_align: left
