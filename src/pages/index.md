@@ -437,7 +437,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: ngGirls HackaLearn
+      value: ngGirls HackaLearn - deploy your app on Azure
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
