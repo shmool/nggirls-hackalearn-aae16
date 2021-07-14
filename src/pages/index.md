@@ -341,7 +341,7 @@ sections:
         type: feature
         image: images/Shmuela with Ziggi.png
       - title: lorem-ipsum
-        content: "When Angular went through a rewrite and became more structured I saw in it a great opportunity to teach web programming for beginners. I wanted to inspire specifically women, as I was inspired and motivated by programs such as Django Girls, Rails Girls and Google CodeF. I organized the first ngGirls workshop with the help of many people in the community. It was a great success and excitement. I kept on collaborating with conferences and tech companies to organize more workshops, as the ngGirls team grew with passionate volunteers.\_\n\nToday I enjoy a fulfilling position at Microsoft, getting to do everything I love: coding web apps, teaching and inspiring beginners and advanced programmers, and maintaining a warm, loving home for my family.\n"
+        content: "When Angular went through a rewrite and became more structured I saw in it a great opportunity to teach web programming for beginners. I wanted to inspire specifically women, as I was inspired and motivated by programs such as Django Girls, Rails Girls and Google CodeF. I founded ngGirls and organized the first workshop with the help of many people in the community. It was a great success and excitement. I kept on collaborating with conferences and tech companies to organize more workshops, as the ngGirls team grew with passionate volunteers.\_\n\nToday I enjoy a fulfilling position at Microsoft, getting to do everything I love: coding web apps, teaching and inspiring beginners and advanced programmers, and maintaining a warm, loving home for my family.\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: left
