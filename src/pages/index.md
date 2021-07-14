@@ -440,7 +440,10 @@ seo:
       value: ngGirls HackaLearn - deploy your app on Azure
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        ngGirls HackaLearn is a week of online workshops, free for ngGirls.
+        We'll deploy and connect our Angular apps to serverless services on
+        Azure. 
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/ngGirls_learn.png
