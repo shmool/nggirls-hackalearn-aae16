@@ -443,7 +443,7 @@ seo:
       value: The preview of the Event theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /_static/app-assets/ngGirls%20learn.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
