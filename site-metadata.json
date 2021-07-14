@@ -31,8 +31,7 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ],
-        "logo": "images/ngGirls banner transparent.png"
+        ]
     },
     "title": "Stackbit Event Theme",
     "domain": "https://nggirls-hackalearn-aae16.netlify.app"
