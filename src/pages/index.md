@@ -371,6 +371,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
+        new_window: true
     actions_position: right
     actions_width: fourty
     align: left
