@@ -261,8 +261,9 @@ sections:
       tech.
 
 
-      If you're not able to join us this time, check out the next HackaLearn
-      week that is open for everyone, on August 8-12.
+      If you're not able to join us this time, check out the [next HackaLearn
+      week](https://www.meetup.com/Angular-Nights/events/279461838/) which is
+      open for everyone, on August 8-12.
   - type: features_section
     title: ngGirls - the Online Experience
     subtitle: Global Distribution
