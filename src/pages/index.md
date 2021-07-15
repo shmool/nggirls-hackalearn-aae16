@@ -401,7 +401,7 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
