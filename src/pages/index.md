@@ -111,7 +111,8 @@ sections:
     features:
       - title: Static Web Apps
         content: >
-          ## Static Web Apps
+          ## [Static Web
+          Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview?WT.mc_id=javascript-35337-shjacobs)
 
 
           The new service by Azure takes care of all the necessary details of
