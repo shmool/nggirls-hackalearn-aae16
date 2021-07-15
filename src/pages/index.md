@@ -140,7 +140,8 @@ sections:
         media_width: sixty
       - title: Cosmos DB
         content: >
-          ## Cosmos DB
+          ## [Cosmos
+          DB](https://docs.microsoft.com/azure/cosmos-db/introduction?WT.mc_id=javascript-35337-shjacobs)
 
 
           With this NoSQL database your application can scale and grow without
