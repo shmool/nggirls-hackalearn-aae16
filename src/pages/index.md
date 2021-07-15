@@ -3,10 +3,13 @@ title: Home
 sections:
   - type: hero_section
     title: Learn. Deploy. Engage.
-    content: |
+    content: >
       **Online, July 25 - 29, 2021**
 
-      **Europe 11:00-13:00 | Australia 19:00-21:00**
+
+      **10:00-12:00 BST | 11:00-13:00 CEST | 14:30-16:30 IST | 19:00-21:00
+      AEST**
+
 
       *FREE for Women\**
     actions:
