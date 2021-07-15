@@ -1,12 +1,15 @@
 ---
-title: Home
+title: ngGirls HackaLearn
 sections:
   - type: hero_section
     title: Learn. Deploy. Engage.
-    content: |
+    content: >
       **Online, July 25 - 29, 2021**
 
-      **Europe 11:00-13:00 | Australia 19:00-21:00**
+
+      **10:00-12:00 BST | 11:00-13:00 CEST | 14:30-16:30 IST | 19:00-21:00
+      AEST**
+
 
       *FREE for Women\**
     actions:
@@ -108,7 +111,8 @@ sections:
     features:
       - title: Static Web Apps
         content: >
-          ## Static Web Apps
+          ## [Static Web
+          Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview?WT.mc_id=javascript-35337-shjacobs)
 
 
           The new service by Azure takes care of all the necessary details of
@@ -122,7 +126,8 @@ sections:
         image: images/SWA.png
       - title: Azure Functions
         content: >
-          ## Azure Functions
+          ## [Azure
+          Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=javascript-35337-shjacobs)
 
 
           Write backend functions that connect your front end with backend
@@ -135,7 +140,8 @@ sections:
         media_width: sixty
       - title: Cosmos DB
         content: >
-          ## Cosmos DB
+          ## [Cosmos
+          DB](https://docs.microsoft.com/azure/cosmos-db/introduction?WT.mc_id=javascript-35337-shjacobs)
 
 
           With this NoSQL database your application can scale and grow without
