@@ -126,7 +126,8 @@ sections:
         image: images/SWA.png
       - title: Azure Functions
         content: >
-          ## Azure Functions
+          ## [Azure
+          Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=javascript-35337-shjacobs)
 
 
           Write backend functions that connect your front end with backend
