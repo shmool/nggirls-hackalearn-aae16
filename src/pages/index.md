@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ngGirls HackaLearn
 sections:
   - type: hero_section
     title: Learn. Deploy. Engage.
